@@ -178,6 +178,19 @@ to the data.
 
 </dl>
 
+<dl>
+  <dt>Researcher</dt>
+  <dd>Nadzeya Laurentsyeva, PostDoc, LMU Munich, Faculty of Economics,
+  <a href="nadzeya.laurentsyeva@econ.lmu.de">nadzeya.laurentsyeva@econ.lmu.de</a> </dd>
+
+  <dt>Date of request</dt>
+  <dd>January 28, 2019</dd>
+
+  <dt>Intended use</dt>
+  <dd>I use GitHub data to study organisation and performance of diverse teams. I need personal data (names) to better identify ethnicity/nationality of GitHub users. </dd>
+
+</dl>
+
 ## Disclaimer
 
 The data is provided as is with no further guarantees of data quality or law
